@@ -1,0 +1,4 @@
+[submodule "hugoprofile/public"]
+	path = hugoprofile/public
+	url = https://github.com/nbharathvl9/nbharathvl9.github.io.git
+	branch = main
